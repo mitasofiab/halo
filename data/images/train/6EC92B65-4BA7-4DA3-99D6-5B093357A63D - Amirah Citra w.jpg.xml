@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>6EC92B65-4BA7-4DA3-99D6-5B093357A63D - Amirah Citra w.jpg.jpg</filename>
+	<path>C:\Users\mitasofiabdillah\Videos\object_detection_demo-master\data\raw\6EC92B65-4BA7-4DA3-99D6-5B093357A63D - Amirah Citra w.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2294</width>
+		<height>3059</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>718</xmin>
+			<ymin>629</ymin>
+			<xmax>1623</xmax>
+			<ymax>3059</ymax>
+		</bndbox>
+	</object>
+</annotation>
