@@ -1,0 +1,50 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>3D546FC5-04A9-4F41-9FE8-025189FFE3DC - Fadhilah Mileanasari.jpg.jpg</filename>
+	<path>C:\Users\mitasofiabdillah\Videos\object_detection_demo-master\data\raw\3D546FC5-04A9-4F41-9FE8-025189FFE3DC - Fadhilah Mileanasari.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2168</xmin>
+			<ymin>1497</ymin>
+			<xmax>2462</xmax>
+			<ymax>2154</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1031</xmin>
+			<ymin>1035</ymin>
+			<xmax>1968</xmax>
+			<ymax>3085</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>1316</ymin>
+			<xmax>1050</xmax>
+			<ymax>2885</ymax>
+		</bndbox>
+	</object>
+</annotation>
