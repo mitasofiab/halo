@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>F96541A9-3232-4060-A329-F65F89D657EC - Fadhilah Mileanasari.jpg.jpg</filename>
+	<path>C:\Users\mitasofiabdillah\Videos\object_detection_demo-master\data\raw\F96541A9-3232-4060-A329-F65F89D657EC - Fadhilah Mileanasari.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>805</xmin>
+			<ymin>492</ymin>
+			<xmax>2252</xmax>
+			<ymax>4032</ymax>
+		</bndbox>
+	</object>
+</annotation>
