@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>IMG_20210121_115744_621 - Galang Bimandra.jpg.jpg</filename>
+	<path>C:\Users\mitasofiabdillah\Videos\object_detection_demo-master\data\raw\IMG_20210121_115744_621 - Galang Bimandra.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>1920</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>287</ymin>
+			<xmax>784</xmax>
+			<ymax>1832</ymax>
+		</bndbox>
+	</object>
+</annotation>

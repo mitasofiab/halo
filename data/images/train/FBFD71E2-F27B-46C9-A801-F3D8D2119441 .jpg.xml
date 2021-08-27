@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>FBFD71E2-F27B-46C9-A801-F3D8D2119441 .jpg.jpg</filename>
+	<path>C:\Users\mitasofiabdillah\Videos\object_detection_demo-master\data\raw\FBFD71E2-F27B-46C9-A801-F3D8D2119441 .jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1067</width>
+		<height>1588</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>289</ymin>
+			<xmax>445</xmax>
+			<ymax>1257</ymax>
+		</bndbox>
+	</object>
+</annotation>
