@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>35CAE92E-8DFF-4FA0-9301-B78E600627B3 - Nadea Salsa Della.jpg.jpg</filename>
+	<path>C:\Users\mitasofiabdillah\Videos\object_detection_demo-master\data\raw\35CAE92E-8DFF-4FA0-9301-B78E600627B3 - Nadea Salsa Della.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>893</xmin>
+			<ymin>1110</ymin>
+			<xmax>2350</xmax>
+			<ymax>4032</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>raw</folder>
+	<filename>40A75764-7245-4D8E-9D0C-D1B3DCD32C27 - Nindya Laras Sitoresmi.jpg.jpg</filename>
+	<path>C:\Users\mitasofiabdillah\Videos\object_detection_demo-master\data\raw\40A75764-7245-4D8E-9D0C-D1B3DCD32C27 - Nindya Laras Sitoresmi.jpg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>812</xmin>
+			<ymin>610</ymin>
+			<xmax>2050</xmax>
+			<ymax>4029</ymax>
+		</bndbox>
+	</object>
+</annotation>
